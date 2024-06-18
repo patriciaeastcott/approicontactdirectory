@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "1",
+    "Name": "John Smith",
+    "Phone": "02 9988 2211",
+    "Department": "1",
+    "Address": "1 Code Lane",
+    "City": "Javaville",
+    "State": "NSW",
+    "Zip": "100",
+    "Country": "Australia"
+  },
+  {
+    "Id": "2",
+    "Name": "Sue White",
+    "Phone": "03 8899 2255",
+    "Department": "2",
+    "Address": "16 Bit Way",
+    "City": "Byte Cove",
+    "State": "QLD",
+    "Zip": "1101",
+    "Country": "Australia"
+  },
+  {
+    "Id": "3",
+    "Name": "Bob O’Bits",
+    "Phone": "05 7788 2255",
+    "Department": "3",
+    "Address": "8 Silicon Road",
+    "City": "Cloud Hills",
+    "State": "VIC",
+    "Zip": "1001",
+    "Country": "Australia"
+  },
+  {
+    "Id": "4",
+    "Name": "Mary Blue",
+    "Phone": "06 4455 9988",
+    "Department": "2",
+    "Address": "4 Processor Boulevard",
+    "City": "Appletson",
+    "State": "NT",
+    "Zip": "1010",
+    "Country": "Australia"
+  },
+  {
+    "Id": "5",
+    "Name": "Mick Green",
+    "Phone": "02 9988 1122",
+    "Department": "3",
+    "Address": "700 Bandwidth Street",
+    "City": "Bufferland",
+    "State": "NSW",
+    "Zip": "110",
+    "Country": "Australia"
+  }
+]

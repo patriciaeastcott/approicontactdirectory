@@ -1,0 +1,22 @@
+[
+  {
+    "email": "John.Smith@roi.com",
+    "password": "123abc"
+  },
+  {
+    "email": "Sue.White@roi.com",
+    "password": "23abc1"
+  },
+  {
+    "email": "Bob.O’Bits@roi.com",
+    "password": "123abc"
+  },
+  {
+    "email": "Mary.Blue@roi.com",
+    "password": "23abc2"
+  },
+  {
+    "email": "Mick.Green@roi.com",
+    "password": "123abc"
+  }
+]
